@@ -76,5 +76,25 @@ body{
 
 
 	
-	
+}
+.zoom{
+	transition: 0.5s;
+	object-fit: cover;
+	width: 100%;
+
+}
+.zoom:hover{
+	transform:scale(1.2);
+}
+
+.a{
+	width: 286px;
+	height: 195px;	
+	overflow: hidden;
+	border-radius: 2%;
+}
+.pie{
+	background-color: #000000;
+	padding: 2.5%;
+	margin-bottom: 0%;
 }
