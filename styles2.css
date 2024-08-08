@@ -1,3 +1,6 @@
+.br{
+    margin-left: 80%;
+}
 .f{
     background-color: rgb(212, 207, 207);
 }
@@ -13,14 +16,15 @@
     margin-top: 4%;
 }
 .img1{
-    width: 70%;
-    height: 400px;
+    width: 35%;
+    height: 300px;
     overflow: hidden;
     margin: 15px;
     border-radius: 2%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 0%;
+    margin-right: 1%;
     margin-top: 15px;
+    display: inline-block;
 }
 .gol1{
     width: 100%;
@@ -41,9 +45,7 @@
     color: rgb(0, 100, 250);
    
 }
-.br{
-    margin-left: 80%;
-}
+
 .info{
     width: 100%;
     margin-left: 15%;
@@ -55,4 +57,15 @@
     height: 5px;
     position: absolute;
     background-color: rgb(252, 31, 31);
+}
+#imgR{
+    width: 35%;
+    height: 300px;
+    overflow: hidden;
+    margin: 15px;
+    border-radius: 2%;
+    margin-left: 14%;
+    margin-right: 1%;
+    margin-top: 15px;
+    display: inline-block;
 }
